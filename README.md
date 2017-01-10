@@ -1,1 +1,1 @@
-# Angular2-Project
+# AngularJs 2 + Bootstrap
